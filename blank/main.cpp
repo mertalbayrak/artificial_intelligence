@@ -7,7 +7,7 @@
 /*                                                                                                              */
 /*   Mert Albayrak                                                                                              */
 /*   Artelnics - Making intelligent use of data                                                                 */
-/*   mert.albayrak96@hotmail.com                                                                                 */
+/*   mert.albayrak96@hotmail.com                                                                                */
 /*                                                                                                              */
 /****************************************************************************************************************/
 
