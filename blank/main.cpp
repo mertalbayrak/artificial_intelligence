@@ -5,9 +5,9 @@
 /*                                                                                                              */
 /*   B L A N K   A P P L I C A T I O N                                                                          */
 /*                                                                                                              */
-/*   Roberto Lopez                                                                                              */
+/*   Mert Albayrak                                                                                              */
 /*   Artelnics - Making intelligent use of data                                                                 */
-/*   robertolopez@artelnics.com                                                                                 */
+/*   mert.albayrak96@hotmail.com                                                                                 */
 /*                                                                                                              */
 /****************************************************************************************************************/
 
