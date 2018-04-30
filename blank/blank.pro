@@ -1,15 +1,15 @@
-###################################################################################################
-#                                                                                                 #
-#   OpenNN: Open Neural Networks Library                                                          #
-#   www.artelnics.com/opennn                                                                      #
-#                                                                                                 #
-#   B L A N K   P R O J E C T                                                                     #
-#                                                                                                 #
-#   Roberto Lopez                                                                                 #
-#   Artelnics - Making intelligent use of data                                                    #
-#   robertolopez@artelnics.com                                                                    #
-#                                                                                                 #
-###################################################################################################
+/****************************************************************************************************************/
+/*                                                                                                              */
+/*   OpenNN: Open Neural Networks Library                                                                       */
+/*   www.artelnics.com/opennn                                                                                   */
+/*                                                                                                              */
+/*   B L A N K   A P P L I C A T I O N                                                                          */
+/*                                                                                                              */
+/*   Mert Albayrak                                                                                              */
+/*   Artelnics - Making intelligent use of data                                                                 */
+/*   mert.albayrak96@hotmail.com                                                                                */
+/*                                                                                                              */
+/****************************************************************************************************************/
 
 QT = # Do not use qt
 
