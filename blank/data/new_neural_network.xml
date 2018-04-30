@@ -1,0 +1,58 @@
+<NeuralNetwork>
+    <Inputs>
+        <InputsNumber>8</InputsNumber>
+        <Item Index="1">
+            <Name>Başörtü takar mı?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="2">
+            <Name>Etek giyer mi?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="3">
+            <Name>Sakalı var mı, yok mu?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="4">
+            <Name>Saçı kısa mı, uzun mu?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="5">
+            <Name>Sesi pes mi, tiz mi?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="6">
+            <Name>Kıl oranı fazla mı, az mı?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="7">
+            <Name>Kas kütlesi fazla mı, az mı?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+        <Item Index="8">
+            <Name>Ayak ve elleri büyük mü, küçük mü?</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+    </Inputs>
+    <MultilayerPerceptron>
+        <Architecture>8 15 1</Architecture>
+        <LayersActivationFunction>HyperbolicTangent Linear</LayersActivationFunction>
+        <Parameters>-0.467748 0.352324 2.52674 -0.264037 0.0323149 0.104176 -0.00775869 0.159214 0.00690073 1.27639 -1.57526 -0.281602 1.19857 0.0362322 0.181214 0.127048 0.211379 0.0556386 -0.402846 0.547994 -2.75599 -2.54016 -0.285553 0.788829 -0.64538 1.72289 0.0899513 -0.141627 2.33982 0.046699 0.814553 -1.48378 -0.054069 0.669263 1.51152 1.40765 -0.986064 0.0932383 -0.1687 -1.07673 -0.764829 -0.269485 0.300872 -0.919502 1.88625 -1.21615 -0.647011 0.998689 -1.59787 0.337892 0.699658 2.30572 1.0401 -0.576548 1.32278 0.616054 0.570254 -1.05644 -1.81277 0.937557 -0.00500464 0.908431 0.389571 -1.18289 -0.920279 0.603494 -0.561134 -0.79254 -0.415703 0.983025 1.01953 -0.131478 1.29275 1.93953 2.14696 -0.801236 0.0186526 0.0702667 0.0790053 0.179856 0.0198648 0.251806 -0.0768287 0.0841827 3.25336 -0.229742 -0.625451 0.0899839 0.0349919 -1.04957 -0.72874 1.0183 -0.999654 0.383467 -0.0127646 -0.0647751 -0.0366322 -0.102394 -0.0212183 1.19684 -0.149568 0.123832 0.916917 -1.71611 -0.57093 1.62062 -1.06304 0.622457 -1.09469 1.33415 -0.218518 -0.592184 -1.63622 -2.11026 -0.938824 -2.25894 -1.28589 1.09479 0.922437 -0.0317196 -0.805476 1.78719 -1.05758 0.333212 -0.228668 -0.3706 -1.11243 -0.17725 2.18891 -2.16022 0.060559 0.0227272 -0.118373 0.208388 -0.108236 0.532116 0.452825 0.285673 -0.0188923 -0.00750414 0.0271311 0.00459543 0.00709711 -0.0169247 0.596441 0.0138227 1.25456 0.0169396 -0.0187857 0.00450509 0.433831</Parameters>
+    </MultilayerPerceptron>
+    <Outputs>
+        <OutputsNumber>1</OutputsNumber>
+        <Item Index="1">
+            <Name>erkek veya kadın</Name>
+            <Units></Units>
+            <Description></Description>
+        </Item>
+    </Outputs>
+</NeuralNetwork>
